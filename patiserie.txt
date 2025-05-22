@@ -1,0 +1,6 @@
+1,Luca,Romana,20,Saratele,5,5000
+2,Matei,Romana,15,Covrig Nuttela,3,1500
+3,Mihai,Ploiesti,5,Covridog,3,2000
+4,Luca,Dristor,10,CovriLuca,4,3500
+5,Paul,Cotroceni,25,Croissant,8,4000
+6,Elif,Ploiesti,15,Pateu,4,2000
